@@ -1,0 +1,42 @@
+.UpHead{
+    text-align:center;
+    font-size: 40px;
+    font-weight: 600px;
+    color: rgb(30, 0, 255);
+    font-display:calc();
+    background-image: url('https://i.pinimg.com/originals/e9/95/1f/e9951f7801caee1c1c4a81247f4482ff.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 104px 0;
+}
+
+.UpHead  p{
+    text-align: center;
+    color: rgb(23, 29, 208);
+    font-size: 15px;
+    font-weight:inherit;    
+}
+.UpHead h1{
+    color: black;
+    font-size: medium;
+    font-weight:inherit;
+}
+.UpHead h2{
+    color:blue;
+    font-size: 25px;
+}
+.UpHead button
+{
+    background-color: rgb(43, 40, 242);
+    color: white;
+    width: 200px;
+    border-radius:10px;
+}
+.UpHead button:hover{
+     background-color: rgb(215, 215, 215);
+}
+
+
+nav{
+    padding: 5px 0px !important;
+}

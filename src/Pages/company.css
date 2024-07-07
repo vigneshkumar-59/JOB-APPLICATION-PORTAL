@@ -1,0 +1,32 @@
+
+.cart{
+    background-color:white;
+    text-align: center;
+    padding: 0px 0;
+}
+.cart h5{
+    background-image: url("https://wallpaperaccess.com/full/2769681.jpg");
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.cart h9{
+    color: rgb(24, 0, 209);
+    background-color: rgb(255, 255, 255);
+}
+.cart p{
+    font-size: large;
+    font-weight: 400;
+    text-align: center;
+    line-height: 2 ;
+}
+.cart button{
+    align-content: center;
+    background-color: rgb(15, 8, 220);
+    color: white;
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+}
+.cart button:hover{
+    background-color: rgb(111, 200, 255);
+}
